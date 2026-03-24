@@ -1,4 +1,5 @@
 # 🛡️ RansomGuard
+## Final year Btech project - Yadnesh Somashe and 3 others
 ### Adaptive, Explainable, and Lightweight Ransomware Detection for Real-Time Threat Mitigation
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
